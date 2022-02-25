@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "React",
+      "text": "Learning path"
+    },
+    {
+      "id": "2",
+      "title": "Typescript",
+      "text": "Practice application"
+    }
+  ]
+}

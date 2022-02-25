@@ -1,0 +1,29 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+.button {
+  float: inline-end;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #131212;
+  text-align: left;
+  padding: 8px;
+  font-size: 12px;
+}
+
+/* th {
+  background-color: rgb(157, 168, 175);
+}
+
+td {
+  background-color: rgb(201, 206, 209);
+} */
